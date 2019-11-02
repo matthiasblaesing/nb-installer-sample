@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: eu/doppel_helix/dev/loghere/Installer.class
+OpenIDE-Module-Localizing-Bundle: eu/doppel_helix/dev/loghere/Bundle.properties
+
